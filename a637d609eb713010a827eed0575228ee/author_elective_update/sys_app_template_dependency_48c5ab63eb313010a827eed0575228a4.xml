@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_dependency">
+    <sys_app_template_dependency action="DELETE">
+        <dependency_definition display_value="CONNECTION_CONFIGURED">d0283372c733101001fbe010bdc260ad</dependency_definition>
+        <input>{"scope_name":"sn_azure_sql_spoke","spoke_name":"Microsoft Azure SQL Database Spoke","alias_id":"3De0fb26cbdb91c01046b9fb371d961960"}</input>
+        <sys_class_name>sys_app_template_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 13:07:25</sys_created_on>
+        <sys_id>48c5ab63eb313010a827eed0575228a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope>
+        <sys_update_name>sys_app_template_dependency_48c5ab63eb313010a827eed0575228a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 13:07:25</sys_updated_on>
+        <template display_value="DB Management">87faee05ebb13010a827eed057522863</template>
+    </sys_app_template_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</application>
+        <file_path/>
+        <instance_id>076d7d1eeb203010a827eed05752284a</instance_id>
+        <instance_name>unregistered</instance_name>
+        <name>sys_app_template_dependency_48c5ab63eb313010a827eed0575228a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_dependency"><sys_app_template_dependency action="INSERT_OR_UPDATE"><dependency_definition display_value="CONNECTION_CONFIGURED">d0283372c733101001fbe010bdc260ad</dependency_definition><input>{"scope_name":"sn_azure_sql_spoke","spoke_name":"Microsoft Azure SQL Database Spoke","alias_id":"3De0fb26cbdb91c01046b9fb371d961960"}</input><sys_class_name>sys_app_template_dependency</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-12 13:07:25</sys_created_on><sys_id>48c5ab63eb313010a827eed0575228a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package><sys_policy/><sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope><sys_update_name>sys_app_template_dependency_48c5ab63eb313010a827eed0575228a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-12 13:07:25</sys_updated_on><template display_value="DB Management">87faee05ebb13010a827eed057522863</template></sys_app_template_dependency></record_update>]]></payload>
+        <payload_hash>-1871667905</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6a37d609eb713010a827eed0575228f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 13:07:25</sys_created_on>
+        <sys_id>9176e3a3eb313010a827eed0575228a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b3a797b9f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 13:07:25</sys_updated_on>
+        <type>Template Dependency</type>
+        <update_guid>9976e3a345313010bfe6f0753da750a7</update_guid>
+        <update_guid_history>9976e3a345313010bfe6f0753da750a7:-1871667905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-13 09:34:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_template_dependency">sys_app_template_dependency</sys_db_object>
+        <sys_id>5d8c5588c3a44280b1e8876c1e645890</sys_id>
+        <sys_metadata>48c5ab63eb313010a827eed0575228a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope>
+        <sys_scope_delete display_value="">855fb2ddeeb841d58963fc3353e36599</sys_scope_delete>
+        <sys_update_name>sys_app_template_dependency_48c5ab63eb313010a827eed0575228a4</sys_update_name>
+        <sys_update_version display_value="sys_app_template_dependency_48c5ab63eb313010a827eed0575228a4">9176e3a3eb313010a827eed0575228a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-13 09:34:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
