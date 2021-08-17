@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_var">
+    <sys_app_template_input_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description>Name of the flow</description>
+        <flow_input_variable display_value="flow_name">e93b2645ebb13010a827eed057522882</flow_input_variable>
+        <mandatory>false</mandatory>
+        <name>flow_name</name>
+        <sys_class_name>sys_app_template_input_var</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 14:23:45</sys_created_on>
+        <sys_id>3c3b2645ebb13010a827eed05752284a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>flow_name</sys_name>
+        <sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope>
+        <sys_update_name>sys_app_template_input_var_3c3b2645ebb13010a827eed05752284a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 05:49:30</sys_updated_on>
+        <template display_value="DB Management">87faee05ebb13010a827eed057522863</template>
+        <type>string</type>
+    </sys_app_template_input_var>
+</record_update>

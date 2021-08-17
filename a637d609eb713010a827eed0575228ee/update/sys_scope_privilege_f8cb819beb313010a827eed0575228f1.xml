@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>write</operation>
+        <source_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-08-11 07:13:04</sys_created_on>
+        <sys_id>f8cb819beb313010a827eed0575228f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sc_req_item</sys_name>
+        <sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope>
+        <sys_update_name>sys_scope_privilege_f8cb819beb313010a827eed0575228f1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-08-11 07:13:04</sys_updated_on>
+        <target_name>sc_req_item</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

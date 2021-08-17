@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_dependency">
+    <sys_app_template_dependency action="DELETE">
+        <dependency_definition display_value="CONNECTION_CONFIGURED">d0283372c733101001fbe010bdc260ad</dependency_definition>
+        <input>{"scope_name":"sn_amzn_rds_spoke","spoke_name":"Amazon  RDS spoke","alias_id":"3Df3a6c12287620010aec3819b88cb0b82"}</input>
+        <sys_class_name>sys_app_template_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 14:29:19</sys_created_on>
+        <sys_id>76eba285ebb13010a827eed057522821</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope>
+        <sys_update_name>sys_app_template_dependency_76eba285ebb13010a827eed057522821</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-05 15:06:43</sys_updated_on>
+        <template display_value="DB Management">87faee05ebb13010a827eed057522863</template>
+    </sys_app_template_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</application>
+        <file_path/>
+        <instance_id>076d7d1eeb203010a827eed05752284a</instance_id>
+        <instance_name>unregistered</instance_name>
+        <name>sys_app_template_dependency_76eba285ebb13010a827eed057522821</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_dependency"><sys_app_template_dependency action="INSERT_OR_UPDATE"><dependency_definition display_value="CONNECTION_CONFIGURED">d0283372c733101001fbe010bdc260ad</dependency_definition><input>{"scope_name":"sn_amzn_rds_spoke","spoke_name":"Amazon  RDS spoke","alias_id":"3Df3a6c12287620010aec3819b88cb0b82"}</input><sys_class_name>sys_app_template_dependency</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-04 14:29:19</sys_created_on><sys_id>76eba285ebb13010a827eed057522821</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package><sys_policy/><sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope><sys_update_name>sys_app_template_dependency_76eba285ebb13010a827eed057522821</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-05 15:06:43</sys_updated_on><template display_value="DB Management">87faee05ebb13010a827eed057522863</template></sys_app_template_dependency></record_update>]]></payload>
+        <payload_hash>-324738976</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6a37d609eb713010a827eed0575228f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-05 15:06:43</sys_created_on>
+        <sys_id>7caef351eb313010a827eed05752286c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b16da33030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-05 15:06:43</sys_updated_on>
+        <type>Template Dependency</type>
+        <update_guid>f4aef3515431301084f9c5f10c6da16c</update_guid>
+        <update_guid_history>f4aef3515431301084f9c5f10c6da16c:-324738976,b19ef351e3313010b4e535195ff7d007:216461919,977ce68564b13010baaa484b9e0a0c08:969010398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-13 10:16:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_template_dependency">sys_app_template_dependency</sys_db_object>
+        <sys_id>7c31f5fb13f940a48b3fd552e4852790</sys_id>
+        <sys_metadata>76eba285ebb13010a827eed057522821</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FT - DB Management" source="sn_ft_db_managemen">a637d609eb713010a827eed0575228ee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FT - DB Management">a637d609eb713010a827eed0575228ee</sys_scope>
+        <sys_scope_delete display_value="">855fb2ddeeb841d58963fc3353e36599</sys_scope_delete>
+        <sys_update_name>sys_app_template_dependency_76eba285ebb13010a827eed057522821</sys_update_name>
+        <sys_update_version display_value="sys_app_template_dependency_76eba285ebb13010a827eed057522821">7caef351eb313010a827eed05752286c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-13 10:16:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
